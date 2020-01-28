@@ -7,7 +7,16 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravels
+## pemberitahuan 
+
+Project laravel socialite berjalan dengan baik, Dan jangan lupa tambahkan file env dan isikan config seperti dibawah yg menggunakan id masing2...semoga bermanfaat
+//contoh config facebook di env
+FACEBOOK_CLIENT_ID=
+FACEBOOK_CLIENT_SECRET=
+FACEBOOK_CLIENT_REDIRECT=
+
+
+## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
