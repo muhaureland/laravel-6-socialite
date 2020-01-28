@@ -3,9 +3,7 @@
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-- awenfd
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-- awen.cyrogenics@gmail.com
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
@@ -14,7 +12,9 @@ Socialite saya
 </p>
 
 <p align="center">
+    - awenfd
 <a href="https://www.instagram.com/awenfd/"><img src="https://awenfd.gitlab.io/awenfd-github-com/img/icons/instagram.png"  width="50px" alt="instagram saya"></a>   
+    - awen.cyrogenics@gmail.com
     <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvmZqXCjlGgMNczjllXRSzJNKrdBSgDZBZDZdHprxLrXknKzxGdHMjJCtTxTzQtBnfdRzg"><img src="https://awenfd.gitlab.io/awenfd-github-com/img/icons/gmail.png"  width="50px" alt="instagram saya"></a>
 </p>
 
