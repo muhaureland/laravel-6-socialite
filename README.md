@@ -9,7 +9,8 @@
 
 ## pemberitahuan 
 
-Project laravel socialite berjalan dengan baik, Dan jangan lupa tambahkan file env dan isikan config seperti dibawah yg menggunakan id masing2...semoga bermanfaat
+Project laravel socialite berjalan dengan baik, Dan jangan lupa tambahkan file env dan isikan config seperti dibawah yg menggunakan id masing2...semoga bermanfaat.
+
 //contoh config facebook di env
 - FACEBOOK_CLIENT_ID=
 - FACEBOOK_CLIENT_SECRET=
