@@ -8,8 +8,11 @@
 </p>
 
 <p align="center">
-<a href="https://www.instagram.com/awenfd/"><img src="https://awenfd.gitlab.io/awenfd-github-com/img/icons/instagram.png" alt="instagram saya"></a>
-<a href="https://www.google.com/maps/place/awenfd/@-0.8540602,100.3787733,17z/data=!3m1!4b1!4m5!3m4!1s0x2fd4c7e68c899081:0xdd55af0c544b3a6d!8m2!3d-0.8540602!4d100.380962"><img src="https://awenfd.gitlab.io/awenfd-github-com/img/icons/gmaps.png" alt="alamat saya"></a>
+## Tentang saya
+</p>
+
+<p align="center">
+<a href="https://www.instagram.com/awenfd/"><img src="https://awenfd.gitlab.io/awenfd-github-com/img/icons/instagram.png" alt="instagram saya">my instagram</a>
 </p>
 
 ## Pemberitahuan
