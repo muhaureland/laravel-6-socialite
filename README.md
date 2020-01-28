@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.instagram.com/awenfd/"><img src="https://travis-ci.org/laravel/framework.svg" alt="instagram saya"></a>
+<a href="https://www.instagram.com/awenfd/"><img src="https://awenfd.gitlab.io/awenfd-github-com/img/icons/instagram.png" alt="instagram saya"></a>
 </p>
 
 ## Pemberitahuan
