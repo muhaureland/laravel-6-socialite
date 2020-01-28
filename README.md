@@ -11,9 +11,9 @@
 
 Project laravel socialite berjalan dengan baik, Dan jangan lupa tambahkan file env dan isikan config seperti dibawah yg menggunakan id masing2...semoga bermanfaat
 //contoh config facebook di env
-FACEBOOK_CLIENT_ID=
-FACEBOOK_CLIENT_SECRET=
-FACEBOOK_CLIENT_REDIRECT=
+- FACEBOOK_CLIENT_ID=
+- FACEBOOK_CLIENT_SECRET=
+- FACEBOOK_CLIENT_REDIRECT=
 
 
 ## About Laravel
