@@ -8,11 +8,12 @@
 </p>
 
 <p align="center">
-Tentang saya
+Socialite saya
 </p>
 
 <p align="center">
 <a href="https://www.instagram.com/awenfd/"><img src="https://awenfd.gitlab.io/awenfd-github-com/img/icons/instagram.png"  width="50px" alt="instagram saya"></a>
+ <a href="https://www.instagram.com/awenfd/"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.okezone.com%2Fcontent%2F2019%2F12%2F09%2F207%2F2139743%2Flayanan-gmail-dan-google-drive-alami-gangguan-IuEea7lJYP.jpg&imgrefurl=https%3A%2F%2Ftechno.okezone.com%2Fread%2F2019%2F12%2F09%2F207%2F2139743%2Flayanan-gmail-dan-google-drive-alami-gangguan&docid=gHKZMzezk6u8WM&tbnid=BcuJgt9Wa9Q5yM%3A&vet=10ahUKEwi8utS3t6bnAhWZ7XMBHZajCpgQMwhRKAIwAg..i&w=800&h=419&safe=strict&bih=635&biw=1024&q=gmail&ved=0ahUKEwi8utS3t6bnAhWZ7XMBHZajCpgQMwhRKAIwAg&iact=mrc&uact=8"  width="50px" alt="instagram saya"></a>
 </p>
 
 ## Pemberitahuan
