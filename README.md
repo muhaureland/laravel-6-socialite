@@ -7,9 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## pemberitahuan 
+## Pemberitahuan
 
-Project laravel socialite berjalan dengan baik, Dan jangan lupa tambahkan file env dan isikan config seperti dibawah yg menggunakan id masing2...semoga bermanfaat.
+Project laravel socialite berjalan dengan baik, Dan jangan lupa tambahkan file env dan isikan config seperti dibawah yg menggunakan id masing2...semoga bermanfaat yo sanak.
 
 //contoh config facebook di env
 - FACEBOOK_CLIENT_ID=
