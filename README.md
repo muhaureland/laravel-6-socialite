@@ -12,9 +12,8 @@ Socialite saya
 </p>
 
 <p align="center">
-<a href="https://www.instagram.com/awenfd/"><img src="https://awenfd.gitlab.io/awenfd-github-com/img/icons/instagram.png"  width="50px" alt="instagram saya"></a>
-    
- <a href="https://www.instagram.com/awenfd/"><img src="https://awenfd.gitlab.io/awenfd-github-com/img/icons/gmail.png"  width="50px" alt="instagram saya"></a>
+<a href="https://www.instagram.com/awenfd/"><img src="https://awenfd.gitlab.io/awenfd-github-com/img/icons/instagram.png"  width="50px" alt="instagram saya"></a>   
+    <a href="https://www.instagram.com/awenfd/"><img src="https://awenfd.gitlab.io/awenfd-github-com/img/icons/gmail.png"  width="50px" alt="instagram saya"></a>
 </p>
 
 ## Pemberitahuan
