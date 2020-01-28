@@ -12,7 +12,7 @@ Socialite saya
 </p>
 
 <p align="center">
-    - awenfd
+- awenfd
 <a href="https://www.instagram.com/awenfd/"><img src="https://awenfd.gitlab.io/awenfd-github-com/img/icons/instagram.png"  width="50px" alt="instagram saya"></a>   
     - awen.cyrogenics@gmail.com
     <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvmZqXCjlGgMNczjllXRSzJNKrdBSgDZBZDZdHprxLrXknKzxGdHMjJCtTxTzQtBnfdRzg"><img src="https://awenfd.gitlab.io/awenfd-github-com/img/icons/gmail.png"  width="50px" alt="instagram saya"></a>
