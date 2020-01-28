@@ -7,12 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-<p align="center">
-## Tentang saya
-</p>
+<b align="center">
+Tentang saya
+</b>
 
 <p align="center">
-<a href="https://www.instagram.com/awenfd/"><img src="https://awenfd.gitlab.io/awenfd-github-com/img/icons/instagram.png" alt="instagram saya">my instagram</a>
+<a href="https://www.instagram.com/awenfd/"><img src="https://awenfd.gitlab.io/awenfd-github-com/img/icons/instagram.png" alt="instagram saya"></a>
 </p>
 
 ## Pemberitahuan
